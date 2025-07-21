@@ -1,5 +1,5 @@
-# Amex Product Track Challenge Round2 Submission
-## Overview
+# 👩‍💻 Amex Product Track Challenge Round2 Submission
+## 📋Overview
 This repository contains my Round 2 submission for the American Express Product Track Challenge 2025. In this round, I was tasked with analyzing a provided dataset to answer six primary business questions, each further broken down into multiple analytical sub-parts.
 
 The work presented here demonstrates my approach to:
@@ -9,7 +9,7 @@ The work presented here demonstrates my approach to:
 
 Disclaimer: I've not provided the dataset on here. This repository contains only the code.
 
-## About the Notebooks
+## 📚 About the Notebooks
 The notebooks, data_cleaning.ipynb, question_analysis.ipynb, follows a structured approach:
 
 - Data Understanding
@@ -19,7 +19,7 @@ The notebooks, data_cleaning.ipynb, question_analysis.ipynb, follows a structure
 
 Each question is solved step-by-step with corresponding code blocks.
 
-## Key Skills Demonstrated
+## 🧠 Key Skills Demonstrated
 
 - Business-Oriented Data Analysis
 - Problem-Solving through Code
